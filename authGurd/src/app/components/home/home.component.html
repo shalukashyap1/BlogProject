@@ -1,0 +1,31 @@
+<div class="container-fluid">
+    <form [formGroup]="loginForm" (ngSubmit)="login()">
+        <div class="box  p-3">
+
+            <h1 class="text text-dark text-center"><i class="bi bi-lock-fill"></i><br><h1>Login</h1> </h1>
+            <div class="mb-3 text-light">
+                <label for="">Name</label>
+                <input type="name" formControlName="name" #fname class="form-control" placeholder="Enter Name">
+                </div>
+            <div class="mb-3 text-light">
+            <label for="">Email ID</label>
+            <input type="email" formControlName="email" class="form-control" placeholder="Enter Email Id">
+            <h6 class="alert alert-danger" *ngIf="!f['email'].valid && f['email'].touched">
+                please enter valid email id.
+            </h6>
+            </div>
+            <div class="mb-3 text-light">
+               <label for="">Password</label>
+               <input type="password" formControlName="password" class="form-control" placeholder="Password">
+               <h6 class="alert alert-danger" *ngIf="!f['password'].valid && f['password'].touched">
+                please enter cruccet Password.
+            </h6>
+            </div>
+            <div class="mb-3 text-light">
+                <button type="submit" class="btn btn-success " [disabled]="!loginForm.valid">Login</button>
+                <a class="anchar ms-5" routerLink="/register">Have't account<i class="bi bi-arrow-right"></i></a>
+            </div>
+
+        </div>
+    </form>
+</div>

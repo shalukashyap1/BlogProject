@@ -1,0 +1,30 @@
+<div class="container-fluid p-5">
+    <form #blogForm="ngForm" (ngSubmit)="add(blogForm.value)">
+       
+        <div class="box  p-5">
+           
+            <div class="mb-3 p-2">
+                <input type="text" 
+                name="title" ngModel class="form-control" placeholder="Title">
+            </div>
+            <div class="mb-3 p-2">
+                <input type="text" 
+               name="desc" ngModel class="form-control" placeholder="description"> 
+            </div>
+            <div class="mb-3 p-2">
+                <input type="link" 
+                name="img" ngModel class="form-control" placeholder="image url">
+            </div>
+            <div class="mb-3 p-2">
+              <select ngModel name="ctgry"  class="form-control" >
+                <option value="" *ngFor="let c of ctry" selected>{{c}}</option>
+               
+              </select>
+            </div>
+            <div class="mb-3 p-2">
+                <input type="submit" value="ADD"  class="btn btn-success">
+            </div>
+          
+        </div>
+    </form>
+</div>

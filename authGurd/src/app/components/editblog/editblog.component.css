@@ -1,0 +1,6 @@
+.box{
+    width: 50%;
+    margin: auto;
+    background-color: rgb(216, 135, 148);
+    box-shadow: 5px 5px 20px black;
+}

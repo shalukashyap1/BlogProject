@@ -1,0 +1,118 @@
+{
+  "blogs": [
+    {
+      "title": "THE BENEFITS OF LEVERAGING AN UNREAL ENGINE PARTNER",
+      "desc": "Making video games has become increasingly fascinating and complex as we've progressed through decades of technological advancement. Especially nowadays, the video game industry has been able to garner more revenue than the film and music industry combined, according to SuperData Research. As more creatives get into the fray as indie developers, one of the first questions asked after coming up with an idea is, What engine should we use? While quite a few options are available, including creating a proprietary engine, there are immense benefits to leveraging an established engine like Unreal.The Unreal Engine by Epic Games, otherwise known as the engine behind genre-defining and radically impressive titles such as Final Fantasy 7 Remake, Fortnite, the Batman: Arkham series, and many more, is a versatile and in-depth game engine that's easily accessible and has been used for a plethora of titles. While its origins link back to the mid-90s, Epic Games has continued to push the envelope on what features are available to developers to create their dreams. However, to really utilize the full power of Unreal, especially as a small developer, collaborating with an Unreal Partner can be a cost-effective and long-term benefit. Experienced Unreal developers can not only offer their technical expertise to deliver impactful resources, guidance, and assistance in the development process but also assist in the maintenance of titles after they've been released and even use third-party assets in tandem with the Unreal library to truly make an amazing game!",
+      "img": "https://www.chetu.com/img/blogs/gaming/benefits-of-working-with-unreal-engine-partner/benefits-of-working-with-unreal-engine-partner-700x350.jpg",
+      "ctgry": "MARKETING",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "img": "https://www.chetu.com/img/blogs/technical-perspectives/innovative-bioinformatics-for-healthcare-and-law-enforcement/innovative-bioinformatics-for-healthcare-and-law-enforcement-700x350.jpg",
+      "title": "INNOVATIVE BIOINFORMATICS: REVOLUTIONIZING HEALTHCARE & JUSTICE",
+      "ctgry": "OTHERS",
+      "desc": "Bioinformatics continues to gain traction because of its critical role within healthcare and law enforcement. Its intersection with science and technology has resulted in the sophisticated collection, study, and processing of DNA and other biological data. Bioinformatics is the culmination of technology, data, and science and remains a powerful and modern resource for healthcare and the criminal justice system.Today’s software specialists have designed and implemented custom programs to streamline the workflow of biological data processes and enable scientists to gain new insights into patient health and disease prevention. Additionally, the application of bioinformatics in law enforcement has yielded significant progress when utilizing DNA to advance investigatory procedures such as evidence collection, analysis, and suspect identification."
+    },
+    {
+      "title": "DEVOPS: A COLLABORATIVE APPROACH TO SOFTWARE DEVELOPMENT",
+      "desc": "DevOps is the culmination of development and IT operations uniting with the ultimate goal of designing and expediting the delivery of software-based services and applications. The collaboration of software development and systems administration has created a powerful dynamic that utilizes diverse skills from departments that have not traditionally collaborated. This collaboration results in a new synergy that drives business goals and elevates the client-developer relationship by accelerating software development and customized app project completion, reducing time to market without sacrificing quality or data security.Re-Imagining Development WorkflowDevOps is designed to reduce or eliminate ‘hand offs’ of software development projects that often contribute to bottlenecks, focusing on developing streamlined communication between software development teams and operations. The collaborative environment aims to share project responsibility and enable continuous feedback, allowing any project code bugs to be addressed and rectified more expediently",
+      "img": "https://www.chetu.com/img/blogs/technical-perspectives/devops-enhancing-software-development/devops-enhancing-software-development-700x350.jpg",
+      "ctgry": "MARKETING",
+      "id": 3
+    },
+    {
+      "title": "AUGMENT PATIENT MONITORING AND CARE WITH SOFTWARE AS A MEDICAL DEVICE",
+      "desc": "The healthcare industry has experienced a significant transformation, attributed to the dynamic shift to outcome-based care models that rely on tech-based resources to reduce expenses, exceed evolving demands for elevated patient care, and utilize new mediums for streamlined treatment plans with remote patient monitoring.Healthcare providers responded to calls for more individualized treatment plans by working with software solution providers to deploy resources that enable proactive, data-driven treatment plans, reduce wait times between consultations, and continue building on the success of telemedicine.With adept software experts already creating next-generation resources to elevate the healthcare industry, the evolution of Software as a Medical Device (SaMD) offers providers a compelling resource to modernize medicine while better servicing patients with the implementation of effective, individualized care plans that are customized to the patient’s needs and goals.",
+      "img": "https://www.chetu.com/img/blogs/healthcare/augment-patient-care-with-samd/augment-patient-care-with-samd-700x350.jpg",
+      "ctgry": "OTHERS",
+      "id": 4
+    },
+    {
+      "title": "ARMED WITH ARTIFICIAL INTELLIGENCE: CUTTING-EDGE RESOURCES ENHANCING LAW ENFORCEMENT",
+      "desc": "The versatility of Artificial Intelligence has augmented several industries, and its unprecedented value is reinforced by its enhancement from adept software specialists, who design and implement it to streamline workflow and optimize overall practices to propel industries into modernity. Artificial Intelligence’s application within the challenging world of law enforcement has enabled personnel to expedite document processing and gain a unique insight into data that can further assist with unsolved crimes.Artificial Intelligence can provide law enforcement with cutting-edge resources to mitigate crime and counter the continued trend of decreasing staff retention. Still, advocacy groups have cautioned decision-makers about its drawbacks, citing case law that states it may pose a threat to civil liberties. Government officials have responded, but heavy investments, according to a recent study by Stanford University, report an allocation of $3.3 billion for AI-based resources within the FBI, CIA, and U.S. Army, showing a great deal of confidence in AI’s demonstrative success across several industries.",
+      "img": "https://www.chetu.com/img/blogs/legal/ai-resources-augment-law-enforcement/ai-resources-augment-law-enforcement-700x350.jpg",
+      "ctgry": "OTHERS",
+      "id": 5
+    },
+    {
+      "title": "THE POWER OF XR IN TODAY’S INDUSTRIES",
+      "desc": "With different areas of modernity showing incredible promise, one of these is slowly improving and being implemented across an impressive range of industries. Extended Reality, or XR, encompasses a blend of technologies built to immerse users within their blended digital and physical worlds. These technologies include Augmented Reality, Virtual Reality, and Mixed Reality. While Extended Reality is relatively new, there are plenty of uses for it that range from simple entertainment to complex tasks like professional training within healthcare and visualization and manipulation of 3D models for architects. As a result, XR can address a multitude of issues and be beneficial to not just the industries mentioned above but the real estate and gaming industries could also see improvements.A study conducted by the National Library of Medicine showed that using 3D systems like XRs leads to improved efficacy in learning skills and retaining information. This, alongside the fact that medical school overall has become far more demanding, the future generation of healthcare professionals can benefit significantly from a safer, hands-on approach. A concept like this is bolstered by this sector's overall acceptance of new technologies. In fact, within education as a whole, the same benefits can be applied holistically to schools of any kind. Even in the manufacturing and design sector, a lot of time and money can be saved through XR to streamline development. All of this to say, things are good, but they can be better!",
+      "img": "https://www.chetu.com/img/blogs/technical-perspectives/innovating-sectors-with-xr/innovating-sectors-with-xr-700x350.jpg",
+      "ctgry": "OTHERS",
+      "id": 6
+    },
+    {
+      "title": "REVOLUTIONIZE YOUR DIGITAL WORLD WITH ADOBE SENSEI'S AI SUPERPOWERS",
+      "desc": "Staying ahead of the curve is imperative in the rapidly evolving digital creativity and marketing landscape. Adobe Sensei is a groundbreaking technology that is the peak of Adobe's innovation in Artificial Intelligence (AI) and Machine Learning (ML). This tool is changing how we create, manage, and deliver content. It has many features that enhance its functionality and improve productivity for users.Adobe Sensei leverages Machine Learning and Artificial Intelligence to enhance user experiences, automate tasks, and provide intelligent insights across Adobe's creative and marketing products suite.Adobe Sensei's AI and ML-Driven Features for Enhanced Creativity and Analytics:Adobe Sensei has many features at the disposal of the user. These AI-powered features ensure that users leverage the latest technology for their projects. This customizable application can integrate with other applications to enhance its features.Content Understanding & Asset Tagging:Machine Learning algorithms analyze and understand the content of images, videos, and documents, automatically generating descriptive tags with intelligent business-specific words and metadata. The smart tagging uses Adobe Sensei to simplify content organization and improve search capabilities within Adobe products.Auto-Targeting:A powerful feature in Adobe Sensei that is primarily used in Adobe Target, auto-targeting leverages AI and ML to automate and optimize the targeting content and experiences for different segments of an audience. It can run A/B tests automatically, comparing the different variations of content or experiences to maximize engagement, conversions, or other key performance indicators (KPIs).",
+      "img": "https://www.chetu.com/img/blogs/artificial-intelligence/revolutionize-digital-world-with-adobe-sensei/revolutionize-digital-world-with-adobe-sensei-700x350.jpg",
+      "ctgry": "OTHERS",
+      "id": 7
+    },
+    {
+      "title": "EMPOWERING INDUSTRIES WITH CUSTOM UIPATH RPA SOLUTIONS",
+      "desc": "In today’s radically expansive and involved society, we’ve seen the pitfalls of traditional operations and the importance of streamlined or automated tasks. This is something felt across a multitude of industries. Manufacturing has felt the financial strain of overstocking due to poor inventory management, costing a staggering $471 billion in 2020 alone, as indicated in a report disclosed by Statista. The energy and utilities sector is on an aging infrastructure, causing higher downtime, maintenance costs, and even potential safety hazards. The aforementioned industries, and more, could reap the reward of Robotic Process Automation (RPA).UiPath is a leading provider of RPA software. Robotic Process Automation allows businesses to automate reason-based, repetitive processes with the use of software robots, otherwise known as “bots.” Bots can mimic how humans interact with a system and then fulfill said task, whether that be data extraction, data entry, calculations, or form filling, among other things. One of the most recognizable examples of RPA implementation can be attributed to Uber. Finding it difficult to match their growth rate, they turned to a team of talented software developers and UiPath and, through automation, were back on track and saved upwards of $22 million in the process!Plus, with other industries like telecommunications also suffering from some level of increased complexity and significant decreases in customer satisfaction and revenue, a partnership might just be the road to more sustainable operations.",
+      "img": "https://www.chetu.com/img/blogs/digital-transformation/enhancing-industries-with-uipath-rpa-software/enhancing-industries-with-uipath-rpa-solutions-700x350.jpg",
+      "ctgry": "MARKETING",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 101,
+      "name": "shalu",
+      "email": "shalukashyap382@gmail.com",
+      "password": "shalu@123",
+      "phn": 8077869222 
+    },
+    {
+      "name": "shalu kashyap",
+      "email": "shalukashyap382@gmail.com",
+      "password": "misty@123",
+      "id": 102,
+      "phn": 8057334661
+    },
+    {
+      "name": "khushboo",
+      "email": "khush382@gmail.com",
+      "phn": "1234567890",
+      "password": "Khush@123",
+      "id": 103
+    },
+    {
+      "name": "sonu kumar",
+      "email": "sonu@gmail.com",
+      "phn": "1234567890",
+      "password": "Sonu@123",
+      "id": 104
+    },
+    {
+      "name": "tanu",
+      "email": "tanu@gmail.com",
+      "phn": "4263589746",
+      "password": "Tanu@123",
+      "id": 105
+    },
+    {
+      "name": "akash kumar",
+      "email": "akash@gmail.com",
+      "phn": "7017377438",
+      "password": "Akash@123",
+      "id": 106
+    },
+    {
+      "name": "kashyap",
+      "email": "kashyap@gmail.com",
+      "phn": "1234567892",
+      "password": "Kashyap@123",
+      "id": 107
+    },
+    {
+      "name": "rohit",
+      "email": "rohit@gmail.com",
+      "phn": "7894561234",
+      "password": "Rohit@123",
+      "id": 108
+    }
+  ]
+}

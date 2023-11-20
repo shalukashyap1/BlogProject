@@ -1,0 +1,42 @@
+<div class="container-fluid">
+    <form [formGroup]="registerForm" (ngSubmit)="register()">
+        <div class="box  p-3">
+
+            <h1 class="text text-light text-center"><i class="bi bi-lock-fill"></i><br><h1>Register</h1> </h1>
+            <div class="mb-3 text-light">
+                <label for="">Name</label>
+                <input type="name" formControlName="name"  class="form-control" placeholder="Enter Name" required>
+                <div class="alert alert-danger" *ngIf="!f['name'].valid && f['name'].touched">
+                    required
+                    </div>
+                </div>
+            <div class="mb-3 text-light">
+            <label for="">Email ID</label>
+            <input type="email" formControlName="email" class="form-control" placeholder="Enter Email Id" required>
+            <div class="alert alert-danger" *ngIf="!f['email'].valid && f['email'].touched">
+                please require vaile email id.
+             </div>
+            </div>
+            <div class="mb-3 text-light">
+               <label for="">Password</label>
+               <input type="password" formControlName="password" class="form-control" placeholder="Password" required>
+               <div class="alert alert-danger" *ngIf="!f['password'].valid && f['password'].touched">
+                at least 1 uppercase,1 symbol,numaric value.
+              </div>
+            </div>
+            <div class="mb-3 text-light">
+                <label for="">Phone</label>
+                <input type="tel" formControlName="phn" class="form-control" placeholder="Phone" required>
+                <div class="alert alert-danger" *ngIf="!f['phn'].valid && f['phn'].touched">
+                    at least 10 digit required
+                  </div>
+             </div>
+            <div class="mb-3 text-light">
+                <button type="submit" class="btn btn-success ">Register</button>
+                <a class="anchar ms-5" routerLink="/">Already have an account<i class="bi bi-arrow-right"></i></a>
+            </div>
+
+        </div>
+    </form>
+</div>
+

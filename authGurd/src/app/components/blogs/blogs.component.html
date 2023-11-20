@@ -1,0 +1,27 @@
+<div class="mybtoons">
+    <button type="submit" class="btn1 btn-success animate__animated animate__heartBeat p-2 mt-3 ms-5" routerLink="/addblog">ADD
+        NEW</button>
+       
+    
+</div>
+<div class="container-fluid  ">
+    <div class="box">
+        <div class="card me-5" *ngFor="let d of blogs">
+
+            <img src={{d.img}} alt="">
+            <div class="div p-3">
+            <h1 class="title text-success">{{d.title}}</h1>
+            <h4 class="cty text-danger" >{{d.ctgry}}</h4>
+            <h5 class="desc">{{d.desc}}</h5>
+            </div>
+            <div class="div">
+                <button type="button" (click)="view(d.id)" class="btn btn-success ms-2">ReadMore</button>
+                <button type="button" (click)="edit(d.id)" class="btn btn-warning ms-3 text-light">Update</button>
+                <button type="button" (click)="delete(d.id)" class="btn btn-danger mb-3 ms-3 mt-3">Delete</button>
+            </div>
+
+
+
+        </div>
+    </div>
+</div>

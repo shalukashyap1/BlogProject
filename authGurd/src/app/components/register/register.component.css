@@ -1,0 +1,23 @@
+.container-fluid{
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1483232539664-d89822fb5d3e?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden scroll;
+}
+.box{
+
+    width: 500px;
+    margin: auto;
+background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/05/Download-hd-wallpapers-1080p-screen.jpg');
+background-size:cover;
+border-radius: 10px;
+box-shadow: 5px 5px 20px rgb(250, 248, 248);
+
+}
+.anchar{
+    text-decoration: none;
+    font-size: 20px;
+}
